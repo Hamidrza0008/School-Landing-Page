@@ -1,6 +1,7 @@
 # 🏫 School Landing Page
 
-this is a frontend project 
+this is a frontend project.
+ 
 A modern and responsive **school landing page frontend** built with **Next.js, Tailwind CSS, and Framer Motion**. The project focuses on a clean UI, smooth animations, responsive layouts, and an engaging user experience.
 
 🔗 **Live Demo:** [School Landing Page](https://school-landing-page-website.vercel.app/)
